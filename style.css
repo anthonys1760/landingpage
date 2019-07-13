@@ -1,0 +1,133 @@
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  Html{
+    font-size: 50px;
+    padding: 50px;
+    border: 8px solid black;
+    background: yellow;
+  }
+}
+
+
+body {
+  background-color: #00ffcc;
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+ 
+}
+
+
+
+#aboutus {
+  background-color: #444;
+  color: white;
+  Padding: 20em;
+  
+  background-size: cover;
+  background-blend-mode: multiply;
+background-image: url(https://drive.google.com/uc?export=download&id=1IgubZr1Zg6jepPTQ6HzDSAheVxfZSb_r);
+  background-position: center;
+
+  align-items: center;
+  
+  background-attachment: fixed;
+  
+  background-repeat: no-repeat;
+  
+}
+
+
+header {
+ 
+  background: #FF9900;
+  position: fixed;
+  top: 0;
+  display: flex;
+  min-height: 75px;
+  width: 100%;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+#nav-bar {
+  width: 100%;
+  margin-top: 30px;
+  
+  text-align: center;
+  align-items: center;
+}
+
+nav li {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+li {
+  text-align: center;
+  list-style: none;
+  display: inline;
+  padding: 10px;
+}
+
+ul {
+  text-align: right;
+  font-size: 18px;
+  
+}
+
+li a {
+  color: #00ffcc;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 60px;
+}
+#header-img {
+  padding-left: 50px;
+  padding-top: 10px;
+  width: 40%  
+  width: 90px;   
+  height: 70px;
+  padding-bottom: 10px;
+  
+  
+  
+}
+
+#email {
+  text-align: center;
+}
+
+#button {
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+#email {
+  text-align: center;
+}
+
+
+
+ 
+   
+   
+  
+ 
